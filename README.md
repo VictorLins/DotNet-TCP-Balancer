@@ -150,11 +150,13 @@ The load balancer periodically updates this JSON file with the current health an
     {
       "endpoint": "127.0.0.1:9101",
       "healthy": true,
+      "enabled": true,
       "activeConnections": 8
     },
     {
       "endpoint": "127.0.0.1:9102",
       "healthy": true,
+      "enabled": true,
       "activeConnections": 8
     }
   ]
