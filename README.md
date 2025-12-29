@@ -80,8 +80,8 @@ To maintain system state integrity, certain parameters require a graceful restar
 
 ### Installation
 ```bash
-git clone [https://github.com/yourusername/TcpLoadBalancer.git](https://github.com/yourusername/TcpLoadBalancer.git)
-cd TcpLoadBalancer
+git clone https://github.com/VictorLins/DotNet-TCP-Balancer.git
+cd DotNet-TCP-Balancer
 dotnet restore
 dotnet build
 ```
